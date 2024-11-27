@@ -45,7 +45,7 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/PriyatoshKumarShahi/Comments_System.git
+git clone https://github.com/PriyatoshKumarShahi/Real-Time-Comment-System.git
 cd Comment-System-main
 
 ### 2. Install Dependencies for client site
